@@ -1,6 +1,6 @@
-﻿# csci4131-project
+﻿# website-project
 
-An implementation of a social media website in Express.js.
+A simple implementation of a social media website in Express.js.
 
 ## Features
 - Users can register/login/logout with username and password
